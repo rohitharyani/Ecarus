@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Business\Ecarus Application\Android Application\Ecarus\Android app\Employee\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b0001c8ee84b448ae41b472d98963ba09d8ec519">
+        <dex dex="E:\Business\Ecarus Application\Android Application\Ecarus\Android app\Employee\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5dd91a78a866b8fe5fdeb7a16201373b2b5af4c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Business\Ecarus Application\Android Application\Ecarus\Android app\Employee\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Business\Ecarus Application\Android Application\Ecarus\Android app\Employee\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27e0cf313c5aca33908aa6436e276e585a7b3b1b\classes.dex" />
+    </item>
+
+</items>
