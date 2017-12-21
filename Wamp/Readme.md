@@ -1,4 +1,4 @@
-Place this folder in the C:/wamp64/www folder. <br/>
+Place the 'ara' folder in the C:/wamp64/www folder. <br/>
 <br/>
 <br/>
 
